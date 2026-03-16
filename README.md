@@ -14,7 +14,7 @@ Latest Version:
 
 ### v0.3.0
 Added
-- PDF report export (Pro)
+- PDF report export (Pro version – no watermark)
 - File name display
 
 ### v0.2.1
