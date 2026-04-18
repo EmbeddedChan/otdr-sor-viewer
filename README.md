@@ -8,9 +8,13 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-OTDR-Viewer-v0.3.0.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.3.0.apk)
+[Download EC-OTDR-Viewer-v0.6.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.2.apk)
 
 ## Version History
+### v0.6.2
+Added
+- SOR File Management
+- MSOR File Import
 
 ### v0.3.0
 Added
