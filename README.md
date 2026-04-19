@@ -15,6 +15,14 @@ Latest Version:
 Added
 - SOR File Management
 - MSOR File Import
+- Improved PDF report,following information can now be edited:
+1.report title
+2.cableId
+3.fiberId
+4.locationA
+5.locationB
+6.cableCode
+7.operator
 
 ### v0.3.0
 Added
@@ -27,14 +35,9 @@ Added
 
 ## 🖼 UI Preview
 
-![Screen 1](images/Screenshot_1.jpg)
+![Screen 1](images/Screenshot_9.jpg)
 
-![Screen 1](images/Screenshot_2.jpg)
+![Screen 1](images/Screenshot_8.jpg)
 
-![Screen 1](images/Screenshot_3.jpg)
+![Screen 1](images/Screenshot_10.jpg)
 
-![Screen 1](images/Screenshot_4.jpg)
-
-![Screen 1](images/Screenshot_5.jpg)
-
-![Screen 1](images/Screenshot_7.jpg)
