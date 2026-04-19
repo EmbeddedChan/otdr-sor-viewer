@@ -1,6 +1,6 @@
 # EC OTDR Viewer
-A small Android app for viewing and analyzing OTDR .sor files. It can parse the SOR file format and display the fiber trace and event information.
-The app is still under development, and I'm continuing to improve the parser and visualization.
+A small Android app for viewing and analyzing OTDR .sor files. It supports parsing the SOR file format, visualizing the fiber trace and event information, and generating PDF reports.
+The app is still under development, with ongoing improvements to parsing, visualization, and report generation.
 
 Developed and maintained by **EmbeddedChan**.
 
@@ -12,17 +12,21 @@ Latest Version:
 
 ## Version History
 ### v0.6.2
-Added
+
+#### Added
 - SOR File Management
 - MSOR File Import
-- Improved PDF report,following information can now be edited:
-1.report title
-2.cableId
-3.fiberId
-4.locationA
-5.locationB
-6.cableCode
-7.operator
+
+#### Improved
+- PDF report:
+  - The following fields can now be edited:
+    1. Report Title
+    2. Cable ID
+    3. Fiber ID
+    4. Location A
+    5. Location B
+    6. Cable Code
+    7. Operator
 
 ### v0.3.0
 Added
