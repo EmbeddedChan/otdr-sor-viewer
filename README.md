@@ -41,7 +41,7 @@ Added
 
 ## 🖼 UI Preview
 
-![Screen 1](images/Screenshot_9.jpg)
+![Screen 1](images/Screenshot_11.jpg)
 
 ![Screen 1](images/Screenshot_8.jpg)
 
