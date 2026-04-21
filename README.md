@@ -2,6 +2,8 @@
 A small Android app for viewing and analyzing OTDR .sor files. It supports parsing the SOR file format, visualizing the fiber trace and event information, and generating PDF reports.
 The app is still under development, with ongoing improvements to parsing, visualization, and report generation.
 
+This application performs all data processing locally on the device. It does not require an internet connection and does not collect, store, or transmit any user data.
+
 Developed and maintained by **EmbeddedChan**.
 
 ## 📥 Download
