@@ -56,7 +56,7 @@ Added
 
 ## 🖼 UI Preview
 
-![Screen 1](images/Screenshot_13.jpg)
+![Screen 1](images/Screenshot_14.jpg)
 
 ![Screen 1](images/Screenshot_8.jpg)
 
