@@ -10,7 +10,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-OTDR-Viewer-v0.6.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.3.apk)
+[Download EC-OTDR-Viewer-v0.6.5.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.5.apk)
 
 ## TODO
 - Multi-trace comparison (display and compare multiple OTDR traces) 
@@ -18,7 +18,10 @@ Latest Version:
 
 ## Version History
 
-### v0.6.3(2026-04-22)
+### v0.6.5 (2026-04-22)
+- Added file filtering functionality
+- Added conditional validation for SOR file import
+### v0.6.3
 
 #### PDF Report
 - Fixed: Fiber type
