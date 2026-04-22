@@ -19,7 +19,7 @@ Latest Version:
 ## Version History
 
 ### v0.6.5 (2026-04-22)
-- Added file filtering functionality
+- Added filtering for file list
 - Added conditional validation for SOR file import
 ### v0.6.3
 
