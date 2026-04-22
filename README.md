@@ -18,7 +18,7 @@ Latest Version:
 
 ## Version History
 
-### v0.6.3
+### v0.6.3(2026-04-22)
 
 #### PDF Report
 - Fixed: Fiber type
