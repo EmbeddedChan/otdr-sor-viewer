@@ -12,13 +12,18 @@ Latest Version:
 
 [Download EC-OTDR-Viewer-v0.6.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.3.apk)
 
+## TODO
+- Multi-trace comparison (display and compare multiple OTDR traces) 
+
+
 ## Version History
 
 ### v0.6.3
-- PDF report:
-fixed : Fiber Type
-Added ：Span Length, Average Loss.
-update: TotalLoss-> Span Loss
+
+#### PDF Report
+- Fixed: Fiber type
+- Added: Span length, average loss
+- Updated: "Total Loss" → "Span Loss"
 
 ### v0.6.2
 
