@@ -12,8 +12,6 @@ Latest Version:
 
 [Download EC-OTDR-Viewer-v0.6.5.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.5.apk)
 
-## TODO
-- Multi-trace comparison (display and compare multiple OTDR traces) 
 
 
 ## Version History
