@@ -10,9 +10,16 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-OTDR-Viewer-v0.6.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.2.apk)
+[Download EC-OTDR-Viewer-v0.6.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.3.apk)
 
 ## Version History
+
+### v0.6.3
+- PDF report:
+fixed : Fiber Type
+Added ：Span Length, Average Loss.
+update: TotalLoss-> Span Loss
+
 ### v0.6.2
 
 #### Added
