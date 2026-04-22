@@ -57,5 +57,5 @@ Added
 
 ![Screen 1](images/Screenshot_8.jpg)
 
-![Screen 1](images/Screenshot_10.jpg)
+![Screen 1](images/Screenshot_12.jpg)
 
