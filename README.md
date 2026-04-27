@@ -10,13 +10,17 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-OTDR-Viewer-v0.6.5.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.6.5.apk)
+[Download EC-OTDR-Viewer-v0.7.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.7.1.apk)
 
 
 
 ## Version History
 
-### v0.6.5 (2026-04-22)
+### v0.7.1  - Link Budget module added
+- Added optical link budget calculation engine
+- Basic transmitter and receiver power check
+
+### v0.6.5 
 - Added filtering for file list
 - Added conditional validation for SOR file import
 ### v0.6.3
