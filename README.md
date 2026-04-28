@@ -12,9 +12,9 @@ Latest Version:
 
 [Download EC-OTDR-Viewer-v0.7.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.7.2.apk)
 
-
-
 ## Version History
+### v0.7.2
+ Fixed: event data issues in OTDR SOR PDF report
 
 ### v0.7.1  - Link Budget module added
 - Added optical link budget calculation engine
