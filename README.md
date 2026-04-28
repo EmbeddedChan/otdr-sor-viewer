@@ -66,6 +66,8 @@ Added
 
 ![Screen 1](images/Screenshot_12.jpg)
 
+![Screen 1](images/Screenshot_19.jpg)
+
 ![Screen 1](images/Screenshot_17.jpg)
 
 ![Screen 1](images/Screenshot_18.jpg)
