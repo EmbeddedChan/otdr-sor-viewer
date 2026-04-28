@@ -19,7 +19,7 @@ Latest Version:
 ### v0.7.1  - Link Budget module added
 - Added optical link budget calculation engine
 - Basic receiver power check
-- High-speed optical link evaluation
+- High-speed optical link analysis
 
 
 ### v0.6.5 
