@@ -13,6 +13,10 @@ Latest Version:
 [Download EC-OTDR-Viewer-v0.7.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.7.2.apk)
 
 ## Version History
+### v0.8.1  - Tools module added
+- Added optical power converter 
+- Added ODTR time distance converter
+
 ### v0.7.2
  Fixed: event data issues in OTDR SOR PDF report
 
@@ -71,3 +75,5 @@ Added
 ![Screen 1](images/Screenshot_17.jpg)
 
 ![Screen 1](images/Screenshot_18.jpg)
+
+![Screen 1](images/Screenshot_20.jpg)
