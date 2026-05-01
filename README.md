@@ -10,7 +10,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-OTDR-Viewer-v0.7.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.7.2.apk)
+[Download EC-OTDR-Viewer-v0.8.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.8.1.apk)
 
 ## Version History
 ### v0.8.1  - Tools module added
