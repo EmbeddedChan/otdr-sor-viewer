@@ -17,6 +17,8 @@ Latest Version:
 ### v0.8.2 
 - Added Link Budget: save the current link configuration 
 - Added link topology diagram in the OTDR Trace view
+- Added Splitter Loss Calculator
+- Added WDM Wavelength ↔ Frequency + ITU Channel converter (incl. ITU grid mapping)
 
 ### v0.8.1  - Tools module added
 - Added optical power converter 
