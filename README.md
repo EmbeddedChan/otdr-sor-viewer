@@ -13,7 +13,9 @@ Latest Version:
 [Download EC-OTDR-Viewer-v0.8.2.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.8.2.apk)
 
 ## Version History
-
+### v0.9.1 
+- Added fiber optic color code lookup and mapping module
+ 
 ### v0.8.2 
 - Added Link Budget: save the current link configuration 
 - Added link topology diagram in the OTDR Trace view
