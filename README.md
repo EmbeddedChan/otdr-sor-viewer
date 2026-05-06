@@ -3,6 +3,8 @@ A small Android app for viewing and analyzing OTDR .sor files. It supports parsi
 The app is still under development, with ongoing improvements to parsing, visualization, and report generation.
 
 This application performs all data processing locally on the device. It does not require an internet connection and does not collect, store, or transmit any user data.
+Welcome your feedback, feature requests, and bug reports. Please email me anytime.
+Email: embeddedchan@gmail.com
 
 Developed and maintained by **EmbeddedChan**.
 
