@@ -32,7 +32,7 @@ EC OTDR Viewer is a lightweight and powerful fiber optic analysis tool designed 
 - Multi-trace comparison (up to multiple fibers)(Coming soon)  
 
 ### 📄 PDF Report Export
-- Generate professional OTDR test reports  
+- Generate OTDR test reports  (Pro, no watermark)
 - Include trace graphs and event summaries  
 - Easy sharing and documentation workflow  
 
@@ -61,6 +61,7 @@ EC OTDR Viewer is a lightweight and powerful fiber optic analysis tool designed 
 - Map fibers inside loose tube / ribbon structures  
 - Visualize fiber organization and numbering  
 - Supports multi-fiber cable structures  
+(Pro, cable>144F,import data)
 
 ---
 
