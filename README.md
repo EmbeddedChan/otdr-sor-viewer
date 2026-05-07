@@ -54,6 +54,7 @@ The application includes the following modules:
 ## 📦 Version History
 
 ### v0.9.3
+- Renamed app to EC Fiber Toolkit
 - Added curve comparison mode for easier fiber trace analysis
 
 ### v0.9.1
