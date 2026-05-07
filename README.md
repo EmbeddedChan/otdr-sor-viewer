@@ -33,7 +33,6 @@ EC OTDR Viewer:
   - Optical Power Converter
   - Splitter Loss Calculator
   - WDM λ ↔ Frequency / ITU Channel Converter
-  - ITU Grid Mapping
   - OTDR Time-Distance Converter
 
 ## 🖼 UI Preview
