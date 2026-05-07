@@ -58,7 +58,7 @@ The application includes the following modules:
 
 ### v0.9.1
 - Added fiber optic color code lookup and mapping module
-
+(Pro, Cable >144 fibers)
 ### v0.8.2
 - Added Link Budget module (configuration save support)
 - Added OTDR trace topology view
@@ -84,7 +84,7 @@ The application includes the following modules:
 - PDF report editing fields added
 
 ### v0.3.0
-- PDF report export (Pro)
+- PDF report export (Pro, no watermark)
 - File name display
 
 ### v0.2.1
