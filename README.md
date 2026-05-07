@@ -25,7 +25,7 @@ The application includes the following modules:
 
 ### Fiber Optic Color Code Module
 - Color Code Lookup
-- Fiber Mapping
+- Fiber cable Mapping
 
 ### Tools Module
 - Optical Power Converter
