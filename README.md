@@ -10,26 +10,28 @@ Latest Version:
 
 [Download EC-OTDR-Viewer-v0.9.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.9.1.apk)
 
-The app includes the following modules:
+## Modules
 
-• SOR Parser Module
-  - SOR File Management
-  - OTDR Trace Display
-  - PDF Report Export
+The application includes the following modules:
 
-• Link Budget Module
-  - Receiver Power Verification
-  - High-Speed Optical Link Analysis
+### SOR Parser Module
+- SOR File Management
+- OTDR Trace Display
+- PDF Report Export
 
-• Fiber Optic Color Code Module
-  - Color Code Lookup
-  - Fiber Mapping
+### Link Budget Module
+- Receiver Power Verification
+- High-Speed Optical Link Analysis
 
-• Tools Module
-  - Optical Power Converter
-  - Splitter Loss Calculator
-  - WDM λ ↔ Frequency / ITU Channel Converter
-  - OTDR Time-Distance Converter
+### Fiber Optic Color Code Module
+- Color Code Lookup
+- Fiber Mapping
+
+### Tools Module
+- Optical Power Converter
+- Splitter Loss Calculator
+- WDM λ ↔ Frequency / ITU Channel Converter
+- OTDR Time-Distance Converter
 
 ## 🖼 UI Preview
 
