@@ -8,7 +8,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-OTDR-Viewer-v0.9.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.9.1.apk)
+[Download EC-OTDR-Viewer-v0.9.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.9.3.apk)
 
 ## Modules
 
@@ -133,8 +133,8 @@ EC OTDR Viewer is a lightweight and powerful fiber optic analysis tool designed 
 
 ## 📦 Version History
 
-<details>
-<summary>Show changelog</summary>
+### v0.9.3
+- Added curve comparison mode for easier fiber trace analysis
 
 ### v0.9.1
 - Added fiber optic color code lookup and mapping module
@@ -170,7 +170,6 @@ EC OTDR Viewer is a lightweight and powerful fiber optic analysis tool designed 
 ### v0.2.1
 - Initial release
 
-</details>
 
 This application performs all data processing locally on the device. It does not require an internet connection and does not collect, store, or transmit any user data.
 Welcome your feedback, feature requests, and bug reports. Please email me anytime.
