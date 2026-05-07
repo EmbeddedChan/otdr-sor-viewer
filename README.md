@@ -10,7 +10,7 @@ Latest Version:
 
 [Download EC-OTDR-Viewer-v0.9.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.9.1.apk)
 
-EC Fiber Optic Tools Suite:
+The app includes the following modules:
 
 • SOR Parser Module
   - SOR File Management
