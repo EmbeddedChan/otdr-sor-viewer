@@ -10,8 +10,6 @@ Latest Version:
 
 [Download EC-OTDR-Viewer-v0.9.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.9.3.apk)
 
-## Modules
-
 The application includes the following modules:
 
 ### SOR Parser Module
