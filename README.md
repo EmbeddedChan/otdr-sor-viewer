@@ -14,6 +14,24 @@ Latest Version:
 
 [Download EC-OTDR-Viewer-v0.9.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.9.1.apk)
 
+
+## 🖼 UI Preview
+
+![Screen 1](images/Screenshot_22.jpg)
+
+![Screen 1](images/Screenshot_21.jpg)
+
+![Screen 1](images/Screenshot_12.jpg)
+
+![Screen 1](images/Screenshot_19.jpg)
+
+![Screen 1](images/Screenshot_17.jpg)
+
+![Screen 1](images/Screenshot_18.jpg)
+
+![Screen 1](images/Screenshot_23.jpg)
+
+
 # 📡 EC OTDR Viewer – Feature Overview
 
 EC OTDR Viewer is a lightweight and powerful fiber optic analysis tool designed for OTDR trace visualization, link analysis, and telecom engineering utilities. It provides an all-in-one toolkit for fiber engineers, installers, and network testers.
@@ -92,22 +110,6 @@ EC OTDR Viewer is a lightweight and powerful fiber optic analysis tool designed 
 - Network installation teams  
 - Optical lab testing  
 - Data center infrastructure engineers
-
-## 🖼 UI Preview
-
-![Screen 1](images/Screenshot_22.jpg)
-
-![Screen 1](images/Screenshot_21.jpg)
-
-![Screen 1](images/Screenshot_12.jpg)
-
-![Screen 1](images/Screenshot_19.jpg)
-
-![Screen 1](images/Screenshot_17.jpg)
-
-![Screen 1](images/Screenshot_18.jpg)
-
-![Screen 1](images/Screenshot_23.jpg)
 
 ## 📦 Version History
 
