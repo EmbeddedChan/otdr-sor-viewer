@@ -1,4 +1,4 @@
-# EC OTDR Viewer
+# EC Fiber Toolkit
 A small Android app for viewing and analyzing OTDR .sor files. It supports parsing the SOR file format, visualizing the fiber trace and event information, and generating PDF reports.
 The app is still under development, with ongoing improvements to parsing, visualization, and report generation.
 
@@ -8,7 +8,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-OTDR-Viewer-v0.9.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OTDR-Viewer-v0.9.3.apk)
+[Download EC-Fiber-Toolkit-v0.9.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-Fiber-Toolkit-v0.9.3.apk)
 
 The application includes the following modules:
 
