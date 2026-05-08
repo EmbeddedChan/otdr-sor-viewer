@@ -13,6 +13,8 @@ Latest Version:
 
 [Download EC-Fiber-Toolkit-v0.9.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-Fiber-Toolkit-v0.9.3.apk)
 
+Please uninstall EC OTDR Viewer before installing EC Fiber ToolKit.
+
 This app is currently not available on Google Play.
 
 ## Privacy
