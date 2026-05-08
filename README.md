@@ -1,6 +1,9 @@
 # EC Fiber Toolkit
-A small Android app for viewing and analyzing OTDR .sor files. It supports parsing the SOR file format, visualizing the fiber trace and event information, and generating PDF reports.
-The app is still under development, with ongoing improvements to parsing, visualization, and report generation.
+
+EC Fiber Toolkit is an Android app for fiber optic engineers and technicians.  
+It provides OTDR SOR file analysis, trace comparison, PDF report export, fiber color code lookup, link budget calculation, and other useful optical fiber tools in a single lightweight application.
+
+Designed for FTTH, ISP, and fiber maintenance work.
 
 Developed and maintained by **EmbeddedChan**.
 
