@@ -103,6 +103,23 @@ All file processing and analysis are performed locally on the device.
 - Initial release
 
 
-This application performs all data processing locally on the device. It does not require an internet connection and does not collect, store, or transmit any user data.
-Welcome your feedback, feature requests, and bug reports. Please email me anytime.
+## Feedback & Support
+
+Welcome your feedback, feature requests, and bug reports.  
+Please email me anytime.
+
 Email: embeddedchan@gmail.com
+
+## Licensing
+
+EC Fiber Toolkit is available in two editions:
+
+### Free Version
+Includes core features for OTDR file viewing and basic fiber analysis.
+
+### Pro Version
+Unlocks advanced features, including:
+- Watermark-free PDF report export
+- Cable fibers >144
+
+Pro features require a valid license.
