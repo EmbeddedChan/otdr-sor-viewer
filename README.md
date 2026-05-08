@@ -44,7 +44,7 @@ All file processing and analysis are performed locally on the device.
 
 ## 🖼 UI Preview
 
-![Screen 1](images/Screenshot_22.jpg)
+![Screen 1](images/Screenshot_25.jpg)
 
 ![Screen 1](images/Screenshot_21.jpg)
 
