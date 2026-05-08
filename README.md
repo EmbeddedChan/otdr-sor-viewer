@@ -17,7 +17,7 @@ This app is currently not available on Google Play.
 
 ## Privacy
 
-This application does not request unnecessary permissions and does not collect, store, or share any user data.
+This application does not request unnecessary permissions and does not collect, store, or share your user data.
 
 All file processing and analysis are performed locally on the device.
 
