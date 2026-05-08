@@ -21,7 +21,7 @@ This application does not request unnecessary permissions and does not collect, 
 
 All file processing and analysis are performed locally on the device.
 
-##The application includes the following modules:
+## The application includes the following modules:
 
 ### SOR Parser Module
 - SOR File Management
