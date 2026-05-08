@@ -13,7 +13,15 @@ Latest Version:
 
 [Download EC-Fiber-Toolkit-v0.9.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-Fiber-Toolkit-v0.9.3.apk)
 
-The application includes the following modules:
+This app is currently not available on Google Play.
+
+## Privacy
+
+This application does not request unnecessary permissions and does not collect, store, or share any user data.
+
+All file processing and analysis are performed locally on the device.
+
+##The application includes the following modules:
 
 ### SOR Parser Module
 - SOR File Management
