@@ -1,9 +1,6 @@
-# EC Fiber Toolkit
+# EC-OpticKit
 
-EC Fiber Toolkit is an Android app for fiber optic engineers and technicians.  
-It provides OTDR SOR file analysis, trace comparison, PDF report export, fiber color code lookup, link budget calculation, and other useful optical fiber tools in a single lightweight application.
-
-Designed for FTTH, ISP, and fiber maintenance work.
+EC-OpticKit is an Android app for OTDR SOR file viewer, trace comparison, PDF report export, fiber color code lookup, Optic link budget calculation, and other useful optical fiber tools in a single lightweight application.
 
 Developed and maintained by **EmbeddedChan**.
 
@@ -11,17 +8,11 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-Fiber-Toolkit-v0.9.3.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-Fiber-Toolkit-v0.9.3.apk)
+[Download EC-OpticKit-v1.0.1.apk](https://github.com/EmbeddedChan/otdr-sor-parser/raw/main/apk/EC-OpticKit-v1.0.1.apk)
 
-Please uninstall EC OTDR Viewer before installing EC Fiber ToolKit.
+Please uninstall EC OTDR Viewer before installing EC-OpticKit.
 
 This app is currently not available on Google Play.
-
-## Privacy
-
-This application does not request unnecessary permissions and does not collect, store, or share your user data.
-
-All file processing and analysis are performed locally on the device.
 
 ## The application includes the following modules:
 
@@ -30,13 +21,15 @@ All file processing and analysis are performed locally on the device.
 - OTDR Trace Display
 - PDF Report Export
 
-### Link Budget Module
+### Optic Link Budget Module
 - Receiver Power Verification
 - High-Speed Optical Link Analysis
 
 ### Fiber Optic Color Code Module
 - Color Code Lookup
 - Fiber cable Mapping
+
+### SCPI raw socket terminal
 
 ### Tools Module
 - Optical Power Converter
@@ -66,8 +59,10 @@ All file processing and analysis are performed locally on the device.
 
 ## 📦 Version History
 
+### v1.0.1
+- Added SCPI raw socket terminal
+- Renamed app to EC OpticKit
 ### v0.9.3
-- Renamed app to EC Fiber Toolkit
 - Added curve comparison mode for easier fiber trace analysis
 
 ### v0.9.1
