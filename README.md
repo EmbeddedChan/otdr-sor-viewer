@@ -124,4 +124,3 @@ Unlocks advanced features, including:
 - Watermark-free PDF report export
 - Cable fibers >144
 
-Pro features require a valid license.
