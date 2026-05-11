@@ -1,6 +1,6 @@
 # EC-OpticKit
 
-EC-OpticKit is an Android app for OTDR SOR file viewer, trace comparison, PDF report export, fiber color code lookup, Optic link budget calculation, and other useful optical fiber tools in a single lightweight application.
+EC-OpticKit is an Android app for OTDR SOR file viewer, trace comparison, PDF report, fiber color code lookup, optical link budget calculation, and other useful optical fiber tools in a single lightweight application.
 
 Developed and maintained by **EmbeddedChan**.
 
@@ -18,10 +18,10 @@ This app is currently not available on Google Play.
 
 ### SOR Parser Module
 - SOR File Management
-- OTDR Trace Display
+- OTDR Trace Viewer
 - PDF Report Export
 
-### Optic Link Budget Module
+### Optical Link Budget Module
 - Receiver Power Verification
 - High-Speed Optical Link Analysis
 
