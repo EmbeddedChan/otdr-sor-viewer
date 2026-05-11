@@ -30,6 +30,7 @@ This app is currently not available on Google Play.
 - Fiber cable Mapping
 
 ### SCPI raw socket terminal
+- Raw TCP socket terminal for SCPI instrument control and debugging.
 
 ### Tools Module
 - Optical Power Converter
