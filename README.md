@@ -110,10 +110,10 @@ Email: embeddedchan@gmail.com
 
 ## Licensing
 
-EC Fiber Toolkit is available in two editions:
+EC-OpticKit is available in two editions:
 
 ### Free Version
-Includes core features for OTDR file viewing and basic fiber analysis.
+Includes all standard features, except Pro-exclusive functions.
 
 ### Pro Version
 Unlocks advanced features, including:
