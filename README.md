@@ -59,6 +59,8 @@ This app is currently not available on Google Play.
 
 
 ## 📦 Version History
+### v1.0.2
+- Fixed crash caused by Android theme switching
 
 ### v1.0.1
 - Added SCPI raw socket terminal
