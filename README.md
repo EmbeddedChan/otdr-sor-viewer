@@ -71,6 +71,9 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 ## 📦 Version History
 
+### v1.13.8
+Changed the display units of Backscatter Coefficient, Noise Floor Level, and Reflectance Threshold to dB.
+
 ### v1.13.7
 
 - Added Privacy Policy statement.
