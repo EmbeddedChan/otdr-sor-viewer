@@ -16,6 +16,9 @@ Please uninstall EC-OpticKit DroidOTDR before installing EC-FusionKit.
 
 This app is currently not available on Google Play.
 
+Discord:
+https://discord.gg/JtmvvP5tX
+
 PCB design services → Fiverr
 https://www.fiverr.com/s/61bjr6L
 
