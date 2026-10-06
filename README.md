@@ -74,6 +74,10 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 ## 📦 Version History
 
+### v1.13.9
+- Added SOR file export. The exported file keeps the original trace data, with the edited metadata written back to the GenParams block and the CRC recalculated.
+- Added editable fields in the SOR file card: Cable ID, Fiber ID, Cable Code, Operator, Location A, Location B.
+
 ### v1.13.8
 Changed the display units of Backscatter Coefficient, Noise Floor Level, and Reflectance Threshold to dB.
 
