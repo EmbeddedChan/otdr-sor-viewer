@@ -23,6 +23,8 @@ Donation (TRON / TRX / USDT-TRC20)
 Address:
 `TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
 
+(BTC):bc1qxt3kqp9m550wydj6ytmyrrw9fgfzuv6aj00c6x
+
 PCB design services → Fiverr
 https://www.fiverr.com/s/61bjr6L
 
