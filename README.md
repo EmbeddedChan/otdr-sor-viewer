@@ -25,6 +25,8 @@ Address:
 
 (BTC):bc1qxt3kqp9m550wydj6ytmyrrw9fgfzuv6aj00c6x
 
+PayPal: https://paypal.me/didadi2024
+
 PCB design services → Fiverr
 https://www.fiverr.com/s/61bjr6L
 
