@@ -182,23 +182,18 @@ Email: embeddedchan@gmail.com
 
 ## Support Development
 
-If you find this project useful, consider supporting its development with a donation.
+Help Me Find My Way Back to Life.
 
 Donation (TRON / TRX / USDT-TRC20)
-
-![USDT TRC20 Donation](images/usdt-trc20-qr.jpg)
 Address:
 `TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
 
-Supporters may receive
+(BTC):bc1qxt3kqp9m550wydj6ytmyrrw9fgfzuv6aj00c6x
 
-- Priority technical support
-- Custom builds for specific devices or requirements
-- Custom feature development (when feasible)
-- Early access to new features and beta versions
-- Help with integration or troubleshooting
+PayPal: https://paypal.me/didadi2024
 
-Your support helps keep this project actively maintained and improved. Thank you!
+![20260119_102003](images/20260119_102003.jpg)
+![20261113_092321](images/20261113_092321.jpg)
 
 
 ## Licensing
