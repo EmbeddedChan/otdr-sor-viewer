@@ -15,20 +15,6 @@ This app is currently not available on Google Play.
 
 Please uninstall EC-OpticKit DroidOTDR before installing EC-FusionKit.
 
-## Support Development
-
-If you find this project useful, consider supporting its development with a donation.
-
-Donation (TRON / TRX / USDT-TRC20)
-Address:
-`TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
-
-(BTC):bc1qxt3kqp9m550wydj6ytmyrrw9fgfzuv6aj00c6x
-
-PayPal: https://paypal.me/didadi2024
-
-PCB design services → Fiverr
-https://www.fiverr.com/s/61bjr6L
 
 ```text
 EC FusionKit
