@@ -7,9 +7,9 @@ Email: embeddedchan@gmail.com
 
 ## 📥 Download
 
-Last updated: 2026-10-06
+Last updated: 2026-11-07
 
-[Download EC-FusionKit-v1.13.9.apk](https://github.com/EmbeddedChan/otdr-sor-viewer/raw/main/apk/EC-FusionKit-v1.13.9.apk)
+[Download EC-FusionKit-v1.14.0.apk](https://github.com/EmbeddedChan/otdr-sor-viewer/raw/main/apk/EC-FusionKit-v1.14.0.apk)
 
 This app is currently not available on Google Play.
 
