@@ -68,6 +68,12 @@ Hold the line until the circle grows, then drag · R² closer to 1 = straighter 
 
 ## 📦 Version History
 
+### v1.14.0
+
+**Fiber Color Code**
+- Added cable editing in the Cable List
+- Added mapping editing in the Mapping List
+
 ### v1.13.9
 - Added SOR file export. The exported file keeps the original trace data, with the edited metadata written back to the GenParams block and the CRC recalculated.
 - Added editable fields in the SOR file card: Cable ID, Fiber ID, Cable Code, Operator, Location A, Location B.
