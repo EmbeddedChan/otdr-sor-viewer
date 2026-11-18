@@ -172,17 +172,25 @@ Please email me anytime.
 
 Email: embeddedchan@gmail.com
 
-## Support Development
+## Support Development & Donations
 
 Help Me Find My Way Back to Life.
 
-Donation (TRON / TRX / USDT-TRC20)
+Your donations can help support ongoing development and give me a chance to rebuild my life.
+
+Donate via TRON (TRX / USDT-TRC20)
+
 Address:
-`TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
+"TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV"
 
-(BTC):bc1qxt3kqp9m550wydj6ytmyrrw9fgfzuv6aj00c6x
+Donate via Bitcoin (BTC)
 
-PayPal: https://paypal.me/didadi2024
+Address:
+"bc1qxt3kqp9m550wydj6ytmyrrw9fgfzuv6aj00c6x"
+
+Donate via PayPal
+
+https://paypal.me/didadi2024
 
 ![20260119_102003](images/20260119_102003.jpg)
 ![20261113_092321](images/20261113_092321.jpg)
